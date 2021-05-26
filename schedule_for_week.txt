@@ -1,0 +1,269 @@
+{
+  "centers": [
+    {
+      "center_id": 594392,
+      "name": "H N Reliance Hospital",
+      "address": "Raja Rammohan Roy Road Prarthana Samaj Girgaon",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward C Corporation - MH",
+      "pincode": 400004,
+      "lat": 18,
+      "long": 72,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "8bc90d5f-8eae-46b2-b784-02f771f28efe",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ]
+        },
+        {
+          "session_id": "214d3d9b-b98b-4cfc-af95-58a69adaccaa",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ]
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "700"
+        }
+      ]
+    },
+    {
+      "center_id": 696413,
+      "name": "SRA Building Ghatkopar East",
+      "address": "SRA Building Kamraj Nagar",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward N Corporation - MH",
+      "pincode": 400077,
+      "lat": 19,
+      "long": 72,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fa05c8f6-7a09-4a12-b2fb-08228a737eb6",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 698800,
+      "name": "Shri Swaminarayan Temple P 215",
+      "address": "Shri Swaminarayan Temple P 215 Bhulabai Desai Road Mahalaxmi Mumbai",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward D Corporation - MH",
+      "pincode": 400011,
+      "lat": 18,
+      "long": 72,
+      "from": "22:30:00",
+      "to": "04:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "70828155-a3a4-4638-8199-ada3bab8a83b",
+          "date": "12-05-2021",
+          "available_capacity": 37,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": []
+        }
+      ]
+    },
+    {
+      "center_id": 636886,
+      "name": "H N Reliance Hosp MUMBAI 1",
+      "address": "Raja Rammohan Roy Road Prarthana Samaj Girgaon",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward C Corporation - MH",
+      "pincode": 400004,
+      "lat": 18,
+      "long": 72,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "d882b078-d7f2-4b6e-935f-7db7908568ed",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ]
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1250"
+        }
+      ]
+    },
+    {
+      "center_id": 596469,
+      "name": "NANAVATI HOSPITAL 1",
+      "address": "Mumbai - Vile Parle",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward K West Corporation - MH",
+      "pincode": 400056,
+      "lat": 19,
+      "long": 72,
+      "from": "14:00:00",
+      "to": "16:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "3a6f7e93-58c4-445a-899c-9e16ed1adfe6",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "02:00PM-04:00PM"
+          ]
+        },
+        {
+          "session_id": "8537905b-aa6f-4f5d-97f7-18267178d200",
+          "date": "12-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM"
+          ]
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "900"
+        }
+      ]
+    },
+    {
+      "center_id": 606878,
+      "name": "DAHISAR COVID JUMBO -8",
+      "address": "Dahisar",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward R North Corporation - MH",
+      "pincode": 400068,
+      "lat": 19,
+      "long": 72,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "15e3b8e1-b8d5-4511-9e46-c8b8463e39c1",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 606018,
+      "name": "DAHISAR COVID JUMBO 6",
+      "address": "Dahisar",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward R North Corporation - MH",
+      "pincode": 400068,
+      "lat": 19,
+      "long": 72,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f30128a1-3ef4-441f-af30-1fd0bab0f66e",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 606906,
+      "name": "DAHISAR COVID JUMBO -10",
+      "address": "Dahisar",
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "block_name": "Ward R North Corporation - MH",
+      "pincode": 400068,
+      "lat": 19,
+      "long": 72,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "13109ccd-0f24-482d-9eab-147174ab0f37",
+          "date": "15-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ]
+        }
+      ]
+    }
+  ]
+}
